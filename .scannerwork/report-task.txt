@@ -2,5 +2,5 @@ projectKey=biblioteca-sistema-adrian-auqui
 serverUrl=https://srvapp.netwaresoft.com
 serverVersion=25.3.0.104237
 dashboardUrl=https://srvapp.netwaresoft.com/dashboard?id=biblioteca-sistema-adrian-auqui
-ceTaskId=c8febb07-716e-4a82-a07c-19f5cc5e2fe2
-ceTaskUrl=https://srvapp.netwaresoft.com/api/ce/task?id=c8febb07-716e-4a82-a07c-19f5cc5e2fe2
+ceTaskId=0d7268c7-d5e8-4c34-b5ed-52ccd17d89b2
+ceTaskUrl=https://srvapp.netwaresoft.com/api/ce/task?id=0d7268c7-d5e8-4c34-b5ed-52ccd17d89b2
